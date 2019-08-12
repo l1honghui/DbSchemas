@@ -1,7 +1,7 @@
 <template>
     <el-container>
       <el-header>
-        Emr DbSchemas
+        DbSchemas
       </el-header>
       <el-container style="margin:10px;">
           <el-aside style="width:300px">
